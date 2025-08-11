@@ -1,4 +1,4 @@
-# Copyright 2025 Markus Ineichen
+# Author: Markus Ineichen, 2025
 from typing import List, Tuple
 
 HEX_DIGITS = "0123456789ABCDEF"
